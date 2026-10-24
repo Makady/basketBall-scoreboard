@@ -56,16 +56,17 @@ p {
   font-family: "Cursed Timer ULiL", sans-serif;
   /* background-color: black; */
   text-align: center;
-  color: #f94f6d;
+  color: #fa002e;
   font-size: 90px;
   margin: 50px 0 0 0;
 }
 #new-game {
   height: 100px;
-  background-color: #f94f6d;
+  font-weight: bold;
+  background-color: #fa002e;
   margin-top: 140px;
   color: #eee;
   text-shadow: 1px 2px 3px black;
   border-radius: 50%;
-  border: 2px solid black;
+  border: 2px solid white;
 }
